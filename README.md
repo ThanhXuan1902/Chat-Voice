@@ -28,3 +28,6 @@ Truyền đáp ứng cho client
 - Quản lý Client
 - Quản lý các thông báo khi client ra vào phòng chat
 - Bật tắt server
+
+# Kết quả chương trình
+- Xem ở thư mục "resul"
