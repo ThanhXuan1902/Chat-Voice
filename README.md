@@ -30,4 +30,4 @@ Truyền đáp ứng cho client
 - Bật tắt server
 
 # Kết quả chương trình
-- Xem ở thư mục "resul"
+- Xem ở thư mục "Result"
